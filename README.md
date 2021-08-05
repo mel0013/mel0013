@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mel0013
-- 🌱 I’m currently doing The Odin Project to learn about web development
-- 💞️ I’m looking to collaborate on mini projects down the line
+🌱 Hi, I’m Melinda
 
 <!---
 mel0013/mel0013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
