@@ -1,3 +1,6 @@
+# Portfolio Website
+[Click here](https://melindajean.org/) to check out my portfolio
+
 ```
 🌱 
 
