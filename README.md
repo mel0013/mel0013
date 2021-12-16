@@ -1,5 +1,5 @@
 # Welcome!
-[Click here](https://melindajean.org/) to check out my portfolio.
+[Click here](https://melindajean.org/) to check out my website.
 
 ```
 🌱 
